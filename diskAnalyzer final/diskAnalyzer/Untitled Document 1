@@ -1,0 +1,2 @@
+os_project: main.cpp treenode.h treenode.cpp
+g++ -std=c++17 -o os main.cpp hello.cpp -lstdc++fs
